@@ -1,1 +1,1 @@
-This is the beta version of a game called Piccilo's Revenge based off of a Dragon Ball Z character. Developed by LaVoy Glass.
+This is the beta version of a game called Baby Piccilo's Revenge based off of a Dragon Ball Z character. Developed by LaVoy Glass.
