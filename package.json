@@ -7,12 +7,11 @@
     "dev": "webpack --config webpack.config.js",
     "start": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack" 
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
