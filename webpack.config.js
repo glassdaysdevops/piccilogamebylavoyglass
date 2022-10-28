@@ -32,8 +32,8 @@ module.exports = {
   },
   plugins: [
     new BrowserSyncPlugin({
-      host: 'localhost',
-      port: 3000,
+      host: 'https://piccilogamebylavoyglass-7f8p.vercel.app/',
+      port: null,
       server: { baseDir: ['dist'] },
       files: ['./dist/*'],
       notify: false
