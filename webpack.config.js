@@ -32,7 +32,7 @@ module.exports = {
   },
   plugins: [
     new BrowserSyncPlugin({
-      localOnly: 'https://piccilogamebylavoyglass-7f8p.vercel.app/',
+      local: 'https://piccilogamebylavoyglass-7f8p.vercel.app/',
       
       server: { baseDir: ['dist'] },
       files: ['./dist/*'],
